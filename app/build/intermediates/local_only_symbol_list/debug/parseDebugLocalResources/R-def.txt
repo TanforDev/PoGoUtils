@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable circle_background
+drawable ic_launcher_foreground
+id btn_disable_service
+id btn_enable_service
+id btn_open_settings
+id btn_permission
+id overlay_button
+id overlay_status_text
+id y_slider
+id y_value_text
+layout activity_main
+layout overlay_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string accessibility_desc
+string accessibility_required
+string app_name
+string enable_service
+string grant_permission
+string overlay_running
+string permission_desc
+string permission_required
+string start_overlay
+style Theme.PoGoOverlay
+xml accessibility_service_config
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <!-- Slider Section -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <TextView
+            android:id="@+id/y_value_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Y: 0"
+            android:textColor="#FFFFFF"
+            android:background="#80000000"
+            android:padding="2dp"
+            android:textSize="10sp"
+            android:layout_marginBottom="4dp"/>
+
+        <!-- Rotated SeekBar wrapper to constrain layout width -->
+        <FrameLayout
+            android:layout_width="40dp"
+            android:layout_height="180dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+            
+            <!-- Rotated SeekBar -->
+            <!-- Width=180dp (length), Height=30dp (thickness) -->
+            <!-- Rotation 270: Centers align. -->
+            <SeekBar
+                android:id="@+id/y_slider"
+                android:layout_width="180dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:rotation="270"
+                android:progressTint="#00FF00"
+                android:thumbTint="#FFFFFF" />
+        </FrameLayout>
+            
+    </LinearLayout>
+
+    <!-- Button Section -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginBottom="100dp">
+
+        <TextView
+            android:id="@+id/overlay_status_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#80000000"
+            android:textColor="#FFFFFF"
+            android:padding="4dp"
+            android:textSize="12sp"
+            android:visibility="gone"
+            android:layout_marginBottom="4dp"
+            android:text="Status" />
+
+        <ImageButton
+            android:id="@+id/overlay_button"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:background="@drawable/circle_background"
+            android:contentDescription="@string/start_overlay"
+            android:elevation="10dp" />
+    </LinearLayout>
+
+</LinearLayout>

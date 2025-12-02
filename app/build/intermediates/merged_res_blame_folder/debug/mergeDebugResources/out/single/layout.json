@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.pogooverlay.app-mergeDebugResources-30:/layout/overlay_layout.xml",
+        "source": "com.example.pogooverlay.app-main-33:/layout/overlay_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-mergeDebugResources-30:\\layout\\overlay_layout.xml",
+        "source": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-main-33:\\layout\\overlay_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-main-33:\\layout\\activity_main.xml"
+    }
+]

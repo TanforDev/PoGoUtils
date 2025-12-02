@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable circle_background
+id btn_accessibility
+id btn_permission
+id overlay_button
+layout activity_main
+layout overlay_layout
+string accessibility_desc
+string accessibility_required
+string app_name
+string enable_service
+string grant_permission
+string overlay_running
+string permission_desc
+string permission_required
+string start_overlay
+style Theme.PoGoOverlay
+xml accessibility_service_config
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-debug-31:\\xml_accessibility_service_config.xml.flat",
+        "source": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-main-33:\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-debug-31:\\layout_overlay_layout.xml.flat",
+        "source": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-main-33:\\layout\\overlay_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.pogooverlay.app-debug-31:/layout_overlay_layout.xml.flat",
+        "source": "com.example.pogooverlay.app-main-33:/layout/overlay_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-debug-31:\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\pmend\\.gradle\\daemon\\9.0-milestone-1\\com.example.pogooverlay.app-main-33:\\drawable\\circle_background.xml"
+    }
+]

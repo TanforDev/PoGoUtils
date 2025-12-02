@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PoGoOverlay</string>
+    <string name="permission_required">Overlay Permission Required</string>
+    <string name="permission_desc">This app needs overlay permission to show the button on top of other apps.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="accessibility_required">Accessibility Service Required</string>
+    <string name="accessibility_desc">This app needs Accessibility Service to perform gestures.</string>
+    <string name="enable_service">Enable Service</string>
+    <string name="start_overlay">Start Overlay</string>
+    <string name="overlay_running">Overlay is running</string>
+</resources>
